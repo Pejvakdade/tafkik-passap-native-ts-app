@@ -1,0 +1,16 @@
+current directory: /Users/parsa/Projects/TafkikTsApp/vendor/bundle/ruby/2.7.0/gems/json-2.6.3/ext/json
+/Users/parsa/.rvm/rubies/ruby-2.7.5/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/parsa/Projects/TafkikTsApp/vendor/bundle/ruby/2.7.0/gems/json-2.6.3/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20231023-23390-e9mg48 sitelibdir\=./.gem.20231023-23390-e9mg48 clean
+
+current directory: /Users/parsa/Projects/TafkikTsApp/vendor/bundle/ruby/2.7.0/gems/json-2.6.3/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20231023-23390-e9mg48 sitelibdir\=./.gem.20231023-23390-e9mg48
+make: Nothing to be done for `all'.
+
+current directory: /Users/parsa/Projects/TafkikTsApp/vendor/bundle/ruby/2.7.0/gems/json-2.6.3/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20231023-23390-e9mg48 sitelibdir\=./.gem.20231023-23390-e9mg48 install
+
+current directory: /Users/parsa/Projects/TafkikTsApp/vendor/bundle/ruby/2.7.0/gems/json-2.6.3/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20231023-23390-e9mg48 sitelibdir\=./.gem.20231023-23390-e9mg48 clean

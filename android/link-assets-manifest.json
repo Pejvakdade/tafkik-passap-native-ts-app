@@ -1,0 +1,53 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "app/assets/animations/loading-waste.json",
+      "sha1": "f6493006b2efd2c4cd38395be77896ef6eb6eddd"
+    },
+    {
+      "path": "app/assets/animations/splash-wsate.json",
+      "sha1": "895944028070337c5b9919a2e21088633059bea6"
+    },
+    {
+      "path": "app/assets/fonts/IRANSansXFaNum-Black.ttf",
+      "sha1": "6f654645fc4c1de0db95c9b53eadaefc17ccd1be"
+    },
+    {
+      "path": "app/assets/fonts/IRANSansXFaNum-Bold.ttf",
+      "sha1": "1c7026b2c900089b49b8f79424972f1d75cc9561"
+    },
+    {
+      "path": "app/assets/fonts/IRANSansXFaNum-DemiBold.ttf",
+      "sha1": "3222a2dc732c7b5f27a0300891e1654ad6a993d7"
+    },
+    {
+      "path": "app/assets/fonts/IRANSansXFaNum-ExtraBold.ttf",
+      "sha1": "e10cbd69bb21eac944eda4340d7933db8f7959d4"
+    },
+    {
+      "path": "app/assets/fonts/IRANSansXFaNum-Light.ttf",
+      "sha1": "fffcb6b715136a215b90b3a5835503b1dcec6c0e"
+    },
+    {
+      "path": "app/assets/fonts/IRANSansXFaNum-Medium.ttf",
+      "sha1": "ca3b903f3f11837c2629be25be2b8fe1d00ea0ae"
+    },
+    {
+      "path": "app/assets/fonts/IRANSansXFaNum-Regular.ttf",
+      "sha1": "eb32ec0951cd1278c2c1f4041ac9003eb187174f"
+    },
+    {
+      "path": "app/assets/fonts/IRANSansXFaNum-Thin.ttf",
+      "sha1": "648868a26a408f8035db69f2782ef532ee8492f0"
+    },
+    {
+      "path": "app/assets/fonts/IRANSansXFaNum-UltraLight.ttf",
+      "sha1": "d826509b4587fff492bad0fbf0fd5fb368bdacff"
+    },
+    {
+      "path": "app/assets/images/wastelogo.png",
+      "sha1": "f29a2b63dda89c6303c0a9ef9bf54aef9fb603c7"
+    }
+  ]
+}
